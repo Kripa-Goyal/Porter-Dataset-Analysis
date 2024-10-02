@@ -27,7 +27,7 @@ Porter, India's largest marketplace for intra-city logistics,works with a wide r
 
    
 ### Insights and Recommendations 
-Provide actionable insights and recommendations based on the analysis.
+Provided actionable insights and recommendations based on the analysis.
 
 
 
